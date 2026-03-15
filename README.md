@@ -320,7 +320,7 @@ Edit `backend/config.json` to customize settings:
 
 ## 🎥 Demo Video
 
-[![CrowdAI Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+<video width="800" height="450" controls>  <source src="screenshots/Screen Recording 2026-03-15 151432.mp4" type="video/mp4"></video>
 
 <div align="center">
 
