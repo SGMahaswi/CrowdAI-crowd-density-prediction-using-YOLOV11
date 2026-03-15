@@ -320,7 +320,9 @@ Edit `backend/config.json` to customize settings:
 
 ## 🎥 Demo Video
 
-https://github.com/SGMahaswi/CrowdAI-crowd-density-prediction-using-YOLOV11/raw/main/screenshots/Screen%20Recording%202026-03-15%20151432.mp4
+<video src="screenshots/Screen Recording 2026-03-15 151432.mp4" controls width="100%"></video>
+
+> Full demo of CrowdAI — real-time crowd density detection using YOLOv11.
 
 
 <div align="center">
