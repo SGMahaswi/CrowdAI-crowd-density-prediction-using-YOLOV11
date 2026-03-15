@@ -320,7 +320,8 @@ Edit `backend/config.json` to customize settings:
 
 ## 🎥 Demo Video
 
-<video width="800" height="450" controls>  <source src="screenshots/Screen Recording 2026-03-15 151432.mp4" type="video/mp4"></video>
+https://github.com/SGMahaswi/CrowdAI-crowd-density-prediction-using-YOLOV11/raw/main/screenshots/Screen%20Recording%202026-03-15%20151432.mp4
+
 
 <div align="center">
 
