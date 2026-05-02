@@ -103,3 +103,7 @@ logs/
 
 # Ignore service account keys / secrets
 backend/serviceAccountKey.json
+
+# Ignore uploads
+backend/uploads/
+uploads/
