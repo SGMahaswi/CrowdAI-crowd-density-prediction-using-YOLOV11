@@ -332,3 +332,5 @@ Edit `backend/config.json` to customize settings:
 *CrowdAI — Intelligent Monitoring, Powered by YOLOv11*
 
 </div>
+#   S m a r t - C r o w d - d a n g e r - d e t e c t i o n  
+ 
